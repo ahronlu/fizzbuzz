@@ -60,7 +60,7 @@ const dictionary = {
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/fizzbuzz-dictionary.git
+   git clone https://github.com/ahronlu/fizzbuzz.git
    ```
 
 2. Navigate to the project directory:
